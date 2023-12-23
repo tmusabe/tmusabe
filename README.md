@@ -5,7 +5,7 @@
 </div>  
   
 
-### <div align="center">I am Taif Al Musabe, enthusiast about software🧑‍💻, hardware⚙️ and artificial intelligence🤖. Currently, I am a graduate student, doing research on deep learning🧠 and computer vision📹. Before that, I worked as a software developer for over 4 years.  I have spent the majority of my career working on iOS() mobile applications.</div>  
+### <div align="center">I am Taif Al Musabe, enthusiast about software🧑‍💻, hardware⚙️ and artificial intelligence🤖. Recently, I have completed my master focusing on deep learning🧠 and computer vision📹. Before that, I worked as a software developer for over 4 years.  I have spent the majority of my career working on iOS() mobile applications.</div>  
   
 
 <br/>  
